@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
  <head>
   <meta charset="UTF-8">
@@ -71,8 +71,7 @@
 		<span class="cls3">生物老师:段世雄</span>
 		<span class="cls3">地理老师:严弟明</span>
 		<span class="cls3">政治老师:朱云池</span>
-		<span class="cls3">历史老师:谢静</span>
-	</br></br></br></br></p>
+		<span class="cls3">历史老师:谢静</span></p>
 	<b class="cls5">铠甲</b>
 		<p id="fuck1">习西铠甲,麻痹铠甲,日天铠甲</p>
 	<b class="cls6">口头禅</b>
